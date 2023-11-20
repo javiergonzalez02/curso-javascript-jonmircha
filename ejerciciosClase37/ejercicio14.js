@@ -15,4 +15,4 @@ const celsiusToFahrenheitAndViceversa = (grados, unidad) => {
     }
 }
 
-celsiusToFahrenheitAndViceversa(12, "f")
+celsiusToFahrenheitAndViceversa(120, "f")

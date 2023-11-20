@@ -9,4 +9,4 @@ const esPrimo = num => {
     }
 }
 
-esPrimo(8)
+esPrimo()
